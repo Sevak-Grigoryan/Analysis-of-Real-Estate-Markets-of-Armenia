@@ -76,12 +76,8 @@ This project provides a comprehensive pipeline for scraping, cleaning, preproces
 ---
 
 ## Visualizations
+![output](https://github.com/user-attachments/assets/741dc8ae-44e4-498c-937c-077c216bb746)
 
-### Example Plots
-
-1. **Propereties Distribution by Region**
-   ![Pie Chart](![output](https://github.com/user-attachments/assets/fe48e556-dcca-4e4d-9fb4-1083ede905b3)
-)
 
 2. **Correlation Heatmap**
    ![Heatmap](example_heatmap.png)
