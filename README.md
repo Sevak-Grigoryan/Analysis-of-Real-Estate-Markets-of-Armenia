@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/39efed47-08e0-4c82-a28f-918efb3d3fe2)# Real Estate Data Scraper, Cleaner, and Analyzer
+# Real Estate Data Scraper, Cleaner, and Analyzer
 
 This project provides a comprehensive pipeline for scraping, cleaning, preprocessing, and analyzing real estate data from Armenian websites. It automates the process of collecting real estate information and visualizing meaningful insights from the data.
 
@@ -76,14 +76,17 @@ This project provides a comprehensive pipeline for scraping, cleaning, preproces
 ---
 
 ## Visualizations
-![output](https://github.com/user-attachments/assets/741dc8ae-44e4-498c-937c-077c216bb746)
 
+### Example Plots
+
+1. **Price Distribution by Region**
+   ![Pie Chart](![output](https://github.com/user-attachments/assets/3126b0d4-d21a-46d3-9b94-3a3e8790a081))
 
 2. **Correlation Heatmap**
-   ![Heatmap](example_heatmap.png)
+   ![Heatmap](![output](https://github.com/user-attachments/assets/2d7f3be0-428a-4dbb-974c-7e06069c44ad))
 
 3. **Bar Plot of Area vs. Rooms**
-   ![Bar Plot](example_bar_plot.png)
+   ![Bar Plot](![output](https://github.com/user-attachments/assets/2493b7d4-f8ec-495a-8b24-b682ef58927f))
 
 ---
 
@@ -118,8 +121,4 @@ This project provides a comprehensive pipeline for scraping, cleaning, preproces
 - Implement machine learning models for price prediction or property classification.
 
 ---
-
-## Author
-
-Developed by Me. Feel free to contact me for any questions or contributions!.
 
