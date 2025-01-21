@@ -80,13 +80,13 @@ This project provides a comprehensive pipeline for scraping, cleaning, preproces
 ### Example Plots
 
 1. **Price Distribution by Region**
-   ![Pie Chart](![output](https://github.com/user-attachments/assets/3126b0d4-d21a-46d3-9b94-3a3e8790a081))
+   ![output](https://github.com/user-attachments/assets/3126b0d4-d21a-46d3-9b94-3a3e8790a081)
 
 2. **Correlation Heatmap**
-   ![Heatmap](![output](https://github.com/user-attachments/assets/2d7f3be0-428a-4dbb-974c-7e06069c44ad))
+   ![output](https://github.com/user-attachments/assets/2d7f3be0-428a-4dbb-974c-7e06069c44ad)
 
 3. **Bar Plot of Area vs. Rooms**
-   ![Bar Plot](![output](https://github.com/user-attachments/assets/2493b7d4-f8ec-495a-8b24-b682ef58927f))
+   ![output](https://github.com/user-attachments/assets/2493b7d4-f8ec-495a-8b24-b682ef58927f)
 
 ---
 
